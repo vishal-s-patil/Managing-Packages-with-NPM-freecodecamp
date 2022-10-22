@@ -2,6 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "vishal police patil",
 	"description": "i am a node js developer",
+	"keywords": [
+		"nodejs",
+		"freecodecamp",
+		"certificate"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
