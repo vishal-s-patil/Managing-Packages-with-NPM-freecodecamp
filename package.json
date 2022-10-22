@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "vishal police patil",
+	"description": "i am a node js developer",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
