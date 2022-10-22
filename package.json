@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.2.0",
 	"author": "vishal police patil",
 	"description": "i am a node js developer",
 	"keywords": [
